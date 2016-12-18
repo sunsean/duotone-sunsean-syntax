@@ -1,13 +1,13 @@
 {
-  "name": "duotone-syntax",
+  "name": "duotone-sunsean-syntax",
   "theme": "syntax",
-  "version": "2.0.2",
-  "description": "Master template for DuoTone syntax themes",
+  "version": "1.0.0",
+  "description": "DuoTone syntax for sunsean",
   "keywords": [
     "duotone",
     "syntax"
   ],
-  "repository": "https://github.com/simurai/duotone-syntax",
+  "repository": "https://github.com/sunsean/duotone-sunsean-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
